@@ -1,0 +1,12 @@
+(Dinesh varyani course)
+Data Structure type->  linear , non linear
+linear -> array ,linked list, stack, queue
+non linear-> (multilevel difficult to implement and traverse) tree ,graph
+
+Algorithm -> set of instruction to solve task
+eg:- recipe book having step by step instruction
+
+Analysis of algorithm:- deals with finding best algorithm which solves problem
+Best case :  Omega -^- best 
+Worst case : Big O
+Average : Theta (-) 
